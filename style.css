@@ -49,7 +49,7 @@ body{
 
 .main{
     min-height: 100vh;
-    background: url('/image/background.jpeg');
+    background: url('background.jpeg');
     /* background: rgb(193, 22, 22); */
     background-position: center;
     background-size: cover;
